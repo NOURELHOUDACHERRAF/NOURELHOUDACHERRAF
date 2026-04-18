@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Nourelhouda 👋</h1>
 
 <p align="center">
-  <em>4th-year Engineering Student @ ESI Alger · AI & Information Systems · Building intelligent solutions</em>
+  <em>4th-year Engineering Student @ ESI Alger · Information Systems · Building intelligent solutions</em>
 </p>
 
 <p align="center">
@@ -14,7 +14,7 @@
 
 ## 🧠 About Me
 
-I'm a **software engineering student** at ESI Alger (Systèmes d'Information et Technologies), passionate about **LLMs, RAG systems, information retrieval**, and building AI-powered solutions with real-world impact.
+I'm a **information systems student** at ESI Alger (Systèmes d'Information et Technologies), passionate about **AI, LLMs, RAG systems, information retrieval**, and building AI-powered solutions with real-world impact.
 
 Currently seeking a **PFE/internship in AI or Software Engineering**.
 
@@ -89,12 +89,12 @@ Internal ticket management system with role-based access, processing workflows, 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=NOURELHOUDACHERRAF&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NOURELHOUDACHERRAF&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=NOURELHOUDACHERRAF&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
