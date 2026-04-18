@@ -14,7 +14,7 @@
 
 ## 🧠 About Me
 
-I'm a **information systems student** at ESI Alger (Systèmes d'Information et Technologies), passionate about **AI, LLMs, RAG systems, information retrieval**, and building AI-powered solutions with real-world impact.
+I'm an **information systems student** at ESI Alger (Systèmes d'Information et Technologies), passionate about **AI, LLMs, RAG systems, information retrieval**, and building AI-powered solutions with real-world impact.
 
 Currently seeking a **PFE/internship in AI or Software Engineering**.
 
