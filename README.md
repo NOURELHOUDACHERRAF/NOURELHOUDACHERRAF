@@ -19,7 +19,7 @@ I'm an **information systems student** at ESI Alger (Systèmes d'Information et 
 Currently seeking a **PFE/internship in AI or Software Engineering**.
 
 - 🎓 École Nationale Supérieure d'Informatique, Alger — Ingénieur en Informatique (2022–Present)
-- 🔬 Interests: Generative AI · Autonomous agents · Semantic search · BI
+- 🔬 Interests: Generative AI · Autonomous agents · LLM · 
 - 💬 Languages: Arabic 🇩🇿 · French 🇫🇷 · English 🇬🇧
 
 ---
